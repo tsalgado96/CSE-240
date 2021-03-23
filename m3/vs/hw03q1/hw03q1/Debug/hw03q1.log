@@ -1,0 +1,5 @@
+﻿  hw03q1.c
+Z:\Dev\CSE240\m3\vs\hw03q1\hw03q1\hw03q1.c(86,20): warning C4018: '<': signed/unsigned mismatch
+Z:\Dev\CSE240\m3\vs\hw03q1\hw03q1\hw03q1.c(171,20): warning C4018: '<': signed/unsigned mismatch
+LINK : warning LNK4076: invalid incremental status file 'Z:\Dev\CSE240\m3\vs\hw03q1\Debug\hw03q1.ilk' (which will be deleted); linking nonincrementally
+  hw03q1.vcxproj -> Z:\Dev\CSE240\m3\vs\hw03q1\Debug\hw03q1.exe

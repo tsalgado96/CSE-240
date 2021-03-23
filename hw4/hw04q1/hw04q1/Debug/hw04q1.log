@@ -1,0 +1,3 @@
+﻿  hw04q1.c
+LINK : warning LNK4076: invalid incremental status file 'Z:\Dev\CSE240\hw4\hw04q1\Debug\hw04q1.ilk' (which will be deleted); linking nonincrementally
+  hw04q1.vcxproj -> Z:\Dev\CSE240\hw4\hw04q1\Debug\hw04q1.exe
