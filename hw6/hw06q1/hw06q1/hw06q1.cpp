@@ -223,6 +223,7 @@ void oldestPatient()
 	char startingCharacter;				// Ask the user for a character
 	cout << "Enter the first letter of patients' first name: ";
 	cin >> startingCharacter;
+	cin.ignore();
 	Patient* newPatient = new Patient;
 	// set name to empty string
 	newPatient->setName("");

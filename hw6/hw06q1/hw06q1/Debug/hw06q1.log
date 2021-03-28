@@ -1,2 +1,5 @@
 ﻿  hw06q1.cpp
+  patient.cpp
+  Generating Code...
+LINK : warning LNK4076: invalid incremental status file 'Z:\Dev\CSE240\hw6\hw06q1\Debug\hw06q1.ilk' (which will be deleted); linking nonincrementally
   hw06q1.vcxproj -> Z:\Dev\CSE240\hw6\hw06q1\Debug\hw06q1.exe
